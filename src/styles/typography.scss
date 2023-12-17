@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;600;700&family=Poppins:wght@200;300;500;600;700;800&display=swap');
+
+.title{
+    font-family: "Poppins", sans-serif;
+    &.one{
+        font-size: 2em;
+    }
+
+    &.two{
+        font-size: 1.8em;
+    }
+
+    &.three{
+        font-size: 1.6em;
+    }
+
+    &.four{
+        font-size: 1.4em;
+    }
+
+    &.five{
+        font-size: 1.2em;
+    }
+}
+
+.paragraph{
+    font-family: "Poppins", sans-serif;
+    &.one{
+        font-size: 1em;
+        font-weight: 300;
+    }
+
+    &.two{
+        font-size: .8em;
+        font-weight: 300;
+    }
+}
+
+.buttonFont{
+    font-family: "Poppins", sans-serif;
+    &.one{
+        font-weight: 500;
+    }
+}
